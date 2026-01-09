@@ -2,4 +2,4 @@
 
 System & Network Administrator | Cybersecurity/Operations Engineer
 
-Currently working in Paris 🇫🇷 as an Cybersecurity/Operation Engineer, with freelance projects in web development, and studying System & Network Administration
+Currently working in Paris 🇫🇷 as a Cybersecurity/Operation Engineer, with freelance projects in web development, and studying System & Network Administration
