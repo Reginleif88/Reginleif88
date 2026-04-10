@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Reginleif88 (Daniel)
+- 👋 Hi, I’m @Reginleif88
 
 System & Network Administrator | Cybersecurity/Operations Engineer
 
